@@ -1,3 +1,4 @@
 [
-	{ "keys": ["f5"], "command": "date" }
+	{ "keys": ["f5"], "command": "date" },
+	{ "keys": ["shift+f5"], "command": "hour"}
 ]
